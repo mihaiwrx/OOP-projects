@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1578518345 source:c:\users\mihaixo\desktop\facultate\projeee_take2\main.cpp
+	<iostream>
+	<Vehicle.h>
+	<Mini.h>
+
+1578517702 c:\users\mihaixo\desktop\facultate\projeee_take2\include\vehicle.h
+	<iostream>
+	<string>
+
+1578518240 c:\users\mihaixo\desktop\facultate\projeee_take2\include\mini.h
+	<Vehicle.h>
+
+1578518899 source:c:\users\mihaixo\desktop\facultate\projeee_take2\src\compacta.cpp
+	"Compacta.h"
+
+1578518899 c:\users\mihaixo\desktop\facultate\projeee_take2\include\compacta.h
+	<Vehicle.h>
+
+1578518899 source:c:\users\mihaixo\desktop\facultate\projeee_take2\src\mica.cpp
+	"Mica.h"
+
+1578518916 c:\users\mihaixo\desktop\facultate\projeee_take2\include\mica.h
+	<Vehicle.h>
+
+1578519067 source:c:\users\mihaixo\desktop\facultate\projeee_take2\src\monovolum.cpp
+	"Monovolum.h"
+
+1578519067 c:\users\mihaixo\desktop\facultate\projeee_take2\include\monovolum.h
+	<Vehicle.h>
+
+1578518316 source:c:\users\mihaixo\desktop\facultate\projeee_take2\src\mini.cpp
+	"Mini.h"
+
+1578518345 source:c:\users\mihaixo\desktop\facultate\projeee_take2\src\vehicle.cpp
+	"Vehicle.h"
+
